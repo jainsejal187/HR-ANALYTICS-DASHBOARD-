@@ -1,0 +1,50 @@
+Questions :
+
+Workforce & Demographics
+What is the average tenure of employees who left the company?
+Which age group has the highest attrition rate?
+What is the gender distribution among employees who left?
+Which education level shows the highest attrition?
+
+Department & Role Analysis
+5. Which department has the highest employee turnover?
+6. Which job roles report the lowest job satisfaction?
+7. Are employees in certain departments more likely to leave after a promotion gap?
+
+Salary & Performance Analysis
+8. What is the average monthly income of employees who left?
+9. Is there a relationship between performance rating and attrition?
+10. How does salary correlate with employee retention across departments?
+
+Experience & Career Growth
+11. How does work-life balance vary with tenure?
+12. Are employees with longer promotion gaps more likely to leave?
+13. How does years of experience affect attrition across roles?
+
+Overall Insights
+14. Which factors (salary, tenure, department, job satisfaction) are most predictive of attrition?
+
+
+Answers :
+
+Employees who left had an average tenure of around 7 years, indicating mid-tenure attrition.
+Employees aged 30–45 show the highest attrition, aligning with the mid-career workforce segment.
+Attrition is slightly higher among male employees (around 60%), reflecting the workforce gender split.
+Employees with Education Level 3–4, particularly from Life Sciences and Medical backgrounds, have the highest attrition.
+Research & Development (R&D) has the highest turnover, followed by Sales.
+Sales Executives and Lab Technicians report the lowest job satisfaction scores.
+Yes, employees with long promotion gaps (10+ years) in R&D and Sales show declining satisfaction and higher attrition.
+Employees who left earned around ₹6.5K per month, similar to the overall workforce average.
+Employees with medium performance ratings (around 3.15/5) have higher attrition, suggesting performance alone isn’t the only factor
+Lower salaries, especially in Sales and early-tenure R&D roles, are associated with higher attrition.
+Work-life balance improves with tenure, indicating that stability increases satisfaction.
+Yes, employees with promotion gaps over 10 years show declining job satisfaction and higher likelihood of leaving.
+Mid-career employees (7–12 years experience) in R&D and Sales have higher attrition, while very senior employees are more stable.
+Key factors include department (R&D, Sales), job satisfaction, promotion gaps, tenure, and education background. Addressing these can improve retention.
+
+
+
+
+
+
+Answers
